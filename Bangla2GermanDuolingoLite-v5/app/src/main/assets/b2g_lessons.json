@@ -1,0 +1,150 @@
+[
+  {
+    "level": "A1",
+    "lessons": [
+      {
+        "id": "a1_basics",
+        "title": "বেসিক অভিবাদন/পরিচয়",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: 'Hallo, ich heiße...'",
+            "promptDe": "Hallo, ich heiße Alex."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Tschüss' মানে কী?",
+            "options": [
+              "বিদায়",
+              "ধন্যবাদ",
+              "শুভ সকাল"
+            ],
+            "answer": "বিদায়"
+          },
+          {
+            "type": "typein",
+            "promptBn": "'ধন্যবাদ' জার্মান লিখো",
+            "answer": "Danke"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Abend'",
+            "answer": "Guten Abend"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "lessons": [
+      {
+        "id": "a2_daily",
+        "title": "দৈনন্দিন কাজ",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: 'Ich koche heute Abend.'",
+            "promptDe": "Ich koche heute Abend."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'spät' = ?",
+            "options": [
+              "দেরি",
+              "আগে",
+              "সবসময়"
+            ],
+            "answer": "দেরি"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি কাজে যাচ্ছি' (DE)",
+            "answer": "Ich gehe zur Arbeit"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Ich habe keine Zeit.'",
+            "answer": "Ich habe keine Zeit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "lessons": [
+      {
+        "id": "b1_opinion",
+        "title": "মতামত ও যুক্তি",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: 'Meiner Meinung nach ist...'",
+            "promptDe": "Meiner Meinung nach ist das eine gute Idee."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'weil' কোন ধরনের শব্দ?",
+            "options": [
+              "সংযোজক",
+              "বিশেষ্য",
+              "ক্রিয়া"
+            ],
+            "answer": "সংযোজক"
+          },
+          {
+            "type": "typein",
+            "promptBn": "'কারণ' (DE কনেক্টর) লিখো",
+            "answer": "weil"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Ich bin damit einverstanden.'",
+            "answer": "Ich bin damit einverstanden."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "lessons": [
+      {
+        "id": "b2_formal",
+        "title": "ফর্মাল ইমেইল",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: 'Sehr geehrte Damen und Herren,'",
+            "promptDe": "Sehr geehrte Damen und Herren,"
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Beschwerde' = ?",
+            "options": [
+              "অভিযোগ",
+              "প্রশংসা",
+              "অনুরোধ"
+            ],
+            "answer": "অভিযোগ"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'সংযুক্তিতে আপনি...' (DE শুরু)",
+            "answer": "Im Anhang finden Sie"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Ich freue mich auf Ihre Antwort.'",
+            "answer": "Ich freue mich auf Ihre Antwort."
+          }
+        ]
+      }
+    ]
+  }
+]

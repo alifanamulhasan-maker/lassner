@@ -1,0 +1,120 @@
+{
+  "reading": [
+    {
+      "prompt": "Zeitungsanzeige: 'Wohnung zu vermieten: 2-Zimmer, kalt 600€.' Frage: Was bedeutet 'kalt 600€'?",
+      "options": [
+        "বেস ভাড়া 600€ (নেবেনকস্টেন ছাড়াই)",
+        "মোট সবকিছু মিলিয়ে 600€",
+        "শুধু শীতকালে 600€"
+      ],
+      "answer": "বেস ভাড়া 600€ (নেবেনকস্টেন ছাড়াই)"
+    },
+    {
+      "prompt": "Email: 'Ich möchte mich für den Kurs anmelden.' Frage: Was will die Person?",
+      "options": [
+        "কোর্সে রেজিস্টার করতে",
+        "কোর্স বাতিল করতে",
+        "কোর্সের টাকা ফেরত চাইতে"
+      ],
+      "answer": "কোর্সে রেজিস্টার করতে"
+    },
+    {
+      "prompt": "Aushang: 'Fahrrad gefunden. Bitte im Büro melden.' Frage: কী করতে হবে?",
+      "options": [
+        "অফিসে যোগাযোগ করতে",
+        "পুলিশে ফোন করতে",
+        "ফেসবুকে পোস্ট করতে"
+      ],
+      "answer": "অফিসে যোগাযোগ করতে"
+    },
+    {
+      "prompt": "Blog: 'Ich pendle jeden Tag.' 'pendeln' মানে?",
+      "options": [
+        "প্রতিদিন যাতায়াত করা",
+        "চাকরি খোঁজা",
+        "ব্যায়াম করা"
+      ],
+      "answer": "প্রতিদিন যাতায়াত করা"
+    },
+    {
+      "prompt": "Anzeige: 'Teilzeitstelle ab sofort.' Frage: 'Teilzeit'?",
+      "options": [
+        "পার্ট-টাইম",
+        "ফুল-টাইম",
+        "ইন্টার্নশিপ"
+      ],
+      "answer": "পার্ট-টাইম"
+    }
+  ],
+  "listening": [
+    {
+      "prompt": "Ich habe den Termin verschoben, können wir morgen um 10 Uhr telefonieren?",
+      "options": [
+        "আগামীকাল ১০টায় কথা বলার প্রস্তাব",
+        "আজ ১০টায় মিটিং",
+        "মিটিং বাতিল"
+      ],
+      "answer": "আগামীকাল ১০টায় কথা বলার প্রস্তাব"
+    },
+    {
+      "prompt": "Die U-Bahn hat Verspätung. Ich komme etwas später.",
+      "options": [
+        "ট্রেন দেরি, সে একটু পরে আসবে",
+        "সে আগেই পৌঁছাবে",
+        "সে আর আসবে না"
+      ],
+      "answer": "ট্রেন দেরি, সে একটু পরে আসবে"
+    },
+    {
+      "prompt": "Bringen Sie bitte Ihren Ausweis mit.",
+      "options": [
+        "আইডি কার্ড আনতে বলছে",
+        "খাবার আনতে বলছে",
+        "ছাতা আনতে বলছে"
+      ],
+      "answer": "আইডি কার্ড আনতে বলছে"
+    },
+    {
+      "prompt": "Ich habe mich im Internet informiert.",
+      "options": [
+        "ইন্টারনেটে তথ্য নিয়েছে",
+        "ইন্টারনেট বন্ধ",
+        "তথ্য দেয়নি"
+      ],
+      "answer": "ইন্টারনেটে তথ্য নিয়েছে"
+    },
+    {
+      "prompt": "Die Ware ist leider ausverkauft.",
+      "options": [
+        "পণ্য শেষ",
+        "পণ্য ডিসকাউন্টে",
+        "নতুন পণ্য এসেছে"
+      ],
+      "answer": "পণ্য শেষ"
+    }
+  ],
+  "writing": [
+    {
+      "prompt": "Thema: 'Beschwerde an die Hausverwaltung wegen Lärm' — mindestens 120 Wörter। Stichwörter: 'Nachbarn, Ruhezeit, mehrmals, Bitte um Lösung'. জার্মানে লিখুন।",
+      "keywords": [
+        "Nachbarn",
+        "Ruhezeit",
+        "mehrmals",
+        "Lösung"
+      ],
+      "minWords": 120
+    }
+  ],
+  "speaking": [
+    {
+      "prompt": "Thema: 'Job/Beruf' — নিজেকে পরিচয় দিন, কাজের অভিজ্ঞতা, শক্তি/দুর্বলতা, ভবিষ্যৎ পরিকল্পনা বলুন (কমপক্ষে 90 শব্দ)। Stichwörter: 'Erfahrung, Stärke, Schwäche, Zukunft'. জার্মানে বলুন।",
+      "keywords": [
+        "Erfahrung",
+        "Stärke",
+        "Schwäche",
+        "Zukunft"
+      ],
+      "minWords": 90
+    }
+  ]
+}
